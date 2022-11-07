@@ -35,7 +35,7 @@ any other HTTP client.
 
 
 ## Mongodb Databases
-![](https://github.com/Krishna12345825/Task-1.-Java-REST-API/blob/main/images/image0.png)
+![Screenshot (97)](https://user-images.githubusercontent.com/117644617/200358954-3a2eb275-32d1-4b7d-b59f-13041192f883.png)
 
 ## Project Folder Structure
 ![](https://github.com/Krishna12345825/Task-1.-Java-REST-API/blob/main/images/image1.png)
