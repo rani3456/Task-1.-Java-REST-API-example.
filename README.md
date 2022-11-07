@@ -27,10 +27,10 @@ any other HTTP client.
 
 # Contents
 - show in mongodb compass ui
--  Adding a Actor
--  Viewing Created Actor
--  Deleting a Created Actor
--  Updating the Created actor	
+-  Adding a Course
+-  Viewing Created Course
+-  Deleting a Created Course
+-  Updating the Created Course	
 - PostMan
 
 # About Project
