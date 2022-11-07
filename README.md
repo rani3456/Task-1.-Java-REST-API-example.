@@ -47,14 +47,15 @@ any other HTTP client.
 ![Screenshot (91)](https://user-images.githubusercontent.com/117644617/200360246-8922088b-f281-4fcd-a9f3-de485213db59.png)
 
 ## Get the Data By Id
-![](https://github.com/Krishna12345825/Task-1.-Java-REST-API/blob/main/images/image4.png)
+![Screenshot (92)](https://user-images.githubusercontent.com/117644617/200361238-77472540-c1c2-43c5-960d-bcf52f3db0ff.png)
+
+##Get By Name
+![Screenshot (93)](https://user-images.githubusercontent.com/117644617/200361474-8fc49e58-b90b-4aef-b141-67ee581d22b5.png)
 
 ## Update all the data
-![](https://github.com/Krishna12345825/Task-1.-Java-REST-API/blob/main/images/image5.png)
-
+![Screenshot (95)](https://user-images.githubusercontent.com/117644617/200362010-1aba2925-ab2a-46fb-b5f9-c6bb5e611e15.png)
 ## Delete the Data By Id
-![](https://github.com/Krishna12345825/Task-1.-Java-REST-API/blob/main/images/image6.png)
-
+![Screenshot (96)](https://user-images.githubusercontent.com/117644617/200361753-502e6111-0801-4965-99d8-7b3328ed04f1.png)
 
 
 # THANK YOU
