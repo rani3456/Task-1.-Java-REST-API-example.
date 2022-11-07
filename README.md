@@ -38,13 +38,13 @@ any other HTTP client.
 ![Screenshot (97)](https://user-images.githubusercontent.com/117644617/200358954-3a2eb275-32d1-4b7d-b59f-13041192f883.png)
 
 ## Project Folder Structure
-![](https://github.com/Krishna12345825/Task-1.-Java-REST-API/blob/main/images/image1.png)
+![Screenshot (99)](https://user-images.githubusercontent.com/117644617/200359731-7884bb8a-c289-45e8-9076-f9f18eb17e0b.png)
 
 ## Add  the data into Postman 
-![](https://github.com/Krishna12345825/Task-1.-Java-REST-API/blob/main/images/image2.png)
+![Screenshot (94)](https://user-images.githubusercontent.com/117644617/200360055-5aa7d4ff-3030-4c3a-8c30-559bccf7814a.png)
 
 ## Get all the data into Postman 
-![](https://github.com/Krishna12345825/Task-1.-Java-REST-API/blob/main/images/image3.png)
+![Screenshot (91)](https://user-images.githubusercontent.com/117644617/200360246-8922088b-f281-4fcd-a9f3-de485213db59.png)
 
 ## Get the Data By Id
 ![](https://github.com/Krishna12345825/Task-1.-Java-REST-API/blob/main/images/image4.png)
